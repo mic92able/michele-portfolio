@@ -1,4 +1,4 @@
-# Michele Massari — Developer Portfolio
+# Michele — Developer Portfolio
 
 Personal developer portfolio featuring selected frontend and full-stack projects.
 
